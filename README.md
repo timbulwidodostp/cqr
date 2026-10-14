@@ -1,6 +1,8 @@
 # cqr
 Ultra-high dimensional variable selection piecewise linear loss function Use cqr (plvs) With (In) R Software
 
+https://www.youtube.com/watch?v=iFlq2ujC2RM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
